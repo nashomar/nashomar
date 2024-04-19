@@ -7,13 +7,16 @@
 
 
 
-**🌍 Based in** Stockholm, Sverige
+**🌍 Based in** 
+Stockholm, Sverige
 
-**📧 Reach me at** Nasrahomar@hotmail.com
+**📧 Reach me at** 
+Nasrahomar@hotmail.com
 
-**📞 Call me at** 0736640325
+**📞 Call me at** 
+0736640325
 
-**🌱What focussed on**
+**🌱What Iam Focussed on**
 
 **👩‍💻** Enhancing my skills in both DevOps and iOS application development.
 
