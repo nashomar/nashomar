@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasra Omar</h1>
 <h3 align="center">🔧 DevOps Engineer | iOS Developer | Tech Enthusiast | Community Volunteer</h3>
 
-https://www.istockphoto.com/se/vektor/muslim-student-girl-with-laptop-studying-young-arab-woman-in-hijab-gm1333284937-415851877
 
 
 
