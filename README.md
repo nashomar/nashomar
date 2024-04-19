@@ -30,9 +30,11 @@
 
 
 **⚡ Personal interests** 
+
   **📘** I'm passionate about continuous learning, attending tech meetups, and participating in tech-related volunteer activities.
   
   **👨‍👩‍👧** As a dedicated mother, I integrate my family life with my career aspirations, demonstrating the possibility of balancing professional growth with personal commitments.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nasra-106aa0130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nasra-106aa0130/" height="30" width="40" /></a>
