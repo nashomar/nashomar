@@ -14,7 +14,7 @@ Stockholm, Sverige
 Nasrahomar@hotmail.com
 
 **📞 Call me at** 
-0736640325
++46736640325
 
 **🌱What Iam Focussed on**
 
