@@ -13,8 +13,7 @@ Stockholm, Sverige
 **📧 Reach me at** 
 Nasrahomar@hotmail.com
 
-**📞 Call me at** 
-+46736640325
+ 
 
 **🌱What Iam Focussed on**
 
